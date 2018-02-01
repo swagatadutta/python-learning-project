@@ -45,14 +45,3 @@ def generator():
 
 for i in range (20):
     print (generator())
-
-
-
-
-
-
-
-
-
-
-
